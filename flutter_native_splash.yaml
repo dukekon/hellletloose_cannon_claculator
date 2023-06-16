@@ -1,0 +1,8 @@
+# flutter_native_splash.yaml
+
+flutter_native_splash:
+  color: "#000000"
+  image: assets/logo.png
+  # fill: true
+  android: true
+  ios: true
