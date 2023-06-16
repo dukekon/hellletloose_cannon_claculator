@@ -1,6 +1,9 @@
 # hll_cannon_calc
 
-A new Flutter project.
+一个人间地狱的炮兵密位计算器app."A Artillery Firing Position Calculator App for a Human Hell."
+
+download: https://wwac.lanzouj.com/iGwmW0zbo8xc
+
 
 ## Getting Started
 
